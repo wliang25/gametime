@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Welcome to Gametime!
+
+What you are looking at is the exact output of `npx create-react-app web-interview-tpl --template redux` (including all the comments)
+
+This repo is here to help candidates jump right into the coding challenge without having to worry about setting up environment.
+
+**Feel free to use your own setup or modify this base app however you see fit**
+
+
+----- 8< ---- 8< ----- 8< ------
 
 ## Available Scripts
 
