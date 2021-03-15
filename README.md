@@ -4,7 +4,7 @@ What you are looking at is the exact output of `npx create-react-app web-intervi
 
 This repo is here to help candidates jump right into the coding challenge without having to worry about setting up environment.
 
-**Feel free to use your own setup or modify this base app however you see fit**
+**Feel free to use your own setup or modify this base app any way you want**
 
 
 ----- 8< ---- 8< ----- 8< ------
