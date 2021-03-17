@@ -15,6 +15,10 @@ You will need [yarn](https://classic.yarnpkg.com/en/docs/install) installed and 
 
 In the project directory, you can run:
 
+### `yarn`
+
+Installs all the necessary packages to run this app.
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
