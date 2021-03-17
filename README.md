@@ -6,6 +6,8 @@ This repo is here to help candidates jump right into the coding challenge withou
 
 **Feel free to use your own setup or modify this base app any way you want**
 
+You will need [yarn](https://classic.yarnpkg.com/en/docs/install) installed and working in order to build and run this code
+
 
 ----- 8< ---- 8< ----- 8< ------
 
