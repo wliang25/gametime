@@ -19,11 +19,11 @@ function App() {
   }, [searchValue]);
 
   const searchResult = (id, image, title, subtitle) => (
-    <div key={id}>
-      <span><img src={image} alt={title} /></span>
-      <div>
-        <p>{title}</p>
-        <p>{subtitle}</p>
+    <div key={id} className='search-result'>
+      <span className='img-container'><img src={image} alt={title} /></span>
+      <div className='result-info'>
+        <div className='title'>{title}</div>
+        <div className='subtitle'>{subtitle}</div>
       </div>
     </div>
   );
@@ -65,7 +65,6 @@ function App() {
           })}
         </div>
       </div>
-      
     </div>
   );
 }
